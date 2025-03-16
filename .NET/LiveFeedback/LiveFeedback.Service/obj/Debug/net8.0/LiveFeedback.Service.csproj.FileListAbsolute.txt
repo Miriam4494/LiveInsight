@@ -1,0 +1,16 @@
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\bin\Debug\net8.0\LiveFeedback.Service.deps.json
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\bin\Debug\net8.0\LiveFeedback.Service.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\bin\Debug\net8.0\LiveFeedback.Service.pdb
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\bin\Debug\net8.0\LiveFeedback.Core.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\bin\Debug\net8.0\LiveFeedback.Core.pdb
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.csproj.AssemblyReference.cache
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.AssemblyInfoInputs.cache
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.AssemblyInfo.cs
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.csproj.CoreCompileInputs.cache
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.sourcelink.json
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeed.055E8A72.Up2Date
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\refint\LiveFeedback.Service.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\LiveFeedback.Service.pdb
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Service\obj\Debug\net8.0\ref\LiveFeedback.Service.dll

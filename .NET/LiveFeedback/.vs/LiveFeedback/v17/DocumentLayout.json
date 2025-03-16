@@ -1,0 +1,1055 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\services\\questionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\services\\questionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\services\\myimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\services\\myimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\postmodels\\questionpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\postmodels\\questionpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\entities\\myimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\entities\\myimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\iservices\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\iservices\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\controllers\\myimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\controllers\\myimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\iservices\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\iservices\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\dtos\\myimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\dtos\\myimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\iservices\\imyimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\iservices\\imyimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\iservices\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\iservices\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\iservices\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\iservices\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\postmodels\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\postmodels\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\postmodels\\permissionpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\postmodels\\permissionpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\postmodels\\userpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\postmodels\\userpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\iuserreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\iuserreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\myimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\myimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\imyimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\imyimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\interfaces\\irepositories\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\interfaces\\irepositories\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.core\\livefeedback.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D140F437-9B4E-473C-B1C0-C6EE6CBF5E8A}|LiveFeedback.Core\\LiveFeedback.Core.csproj|solutionrelative:livefeedback.core\\livefeedback.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\oi5uzr0y..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\mj2dgw51..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\k3gfxeeu..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\lujaz4q4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\g14ifkpa..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\reu52c3c..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\s4k10xps..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\mmk5fklk..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\sxsfc3ia..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Local\\Temp\\xym0c1gc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\livefeedback.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\livefeedback.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.api\\livefeedback.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAE91AA5-7127-46A3-A03C-B9153118082A}|LiveFeedback.API\\LiveFeedback.API.csproj|solutionrelative:livefeedback.api\\livefeedback.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054439FD-6AEC-4993-A1A2-545AADADD55E}|LiveFeedback.Service\\LiveFeedback.Service.csproj|solutionrelative:livefeedback.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\practicume-project\\.net\\livefeedback\\livefeedback.data\\migrations\\20250311193237_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19994DA7-0E99-46B5-B106-041AD8D85E5D}|LiveFeedback.Data\\LiveFeedback.Data.csproj|solutionrelative:livefeedback.data\\migrations\\20250311193237_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Services\\UserService.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowFIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:42:34.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyImageService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\MyImageService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Services\\MyImageService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\MyImageService.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Services\\MyImageService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA9wFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:52:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\DTOs\\QuestionDTO.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\QuestionDTO.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\DTOs\\QuestionDTO.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:59:48.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Services\\FeedbackService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAA/wF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:52:06.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAswOkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:26:48.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionServices.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\QuestionServices.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Services\\QuestionServices.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\QuestionServices.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Services\\QuestionServices.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:53:17.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\PermissionService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Services\\PermissionService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\PermissionService.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Services\\PermissionService.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:52:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Services\\RoleService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Services\\RoleService.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Services\\RoleService.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:53:30.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\MappingProfile.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\MappingProfile.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\MappingProfile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:20:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\QuestionRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\QuestionRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\QuestionRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA+wEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:40:06.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Controllers\\QuestionController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:59:49.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionPostModel.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\QuestionPostModel.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\PostModels\\QuestionPostModel.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\QuestionPostModel.cs",
+              "RelativeToolTip": "LiveFeedback.API\\PostModels\\QuestionPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:16:03.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyImage.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\MyImage.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Entities\\MyImage.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\MyImage.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Entities\\MyImage.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:49:58.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Entities\\Question.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Question.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Entities\\Question.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:47:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Program.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Program.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Program.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwF8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:45:47.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IServices\\IFeedbackService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IFeedbackService.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IServices\\IFeedbackService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:51:30.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FeedbackDTO.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\FeedbackDTO.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\DTOs\\FeedbackDTO.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\FeedbackDTO.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\DTOs\\FeedbackDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:59:34.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:58:00.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyImageController.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\MyImageController.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Controllers\\MyImageController.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\MyImageController.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Controllers\\MyImageController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:01:06.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Controllers\\PermissionController.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Controllers\\PermissionController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAswJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:00:42.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwEwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:59:22.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LiveFeedback.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:58:53.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PermissionDTO.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\PermissionDTO.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\DTOs\\PermissionDTO.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\PermissionDTO.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\DTOs\\PermissionDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:58:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPermissionService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IPermissionService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IServices\\IPermissionService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IPermissionService.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IServices\\IPermissionService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:54:38.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyImageDTO.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\MyImageDTO.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\DTOs\\MyImageDTO.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\MyImageDTO.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\DTOs\\MyImageDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:57:48.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMyImageService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IMyImageService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IServices\\IMyImageService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IMyImageService.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IServices\\IMyImageService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:55:04.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IRoleService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IServices\\IRoleService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IRoleService.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IServices\\IRoleService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:53:56.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IServices\\IQuestionService.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IQuestionService.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IServices\\IQuestionService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:54:16.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\DTOs\\RoleDTO.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\DTOs\\RoleDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:57:30.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IServices\\IUserServices.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IServices\\IUserServices.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IServices\\IUserServices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:43:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RolePostModel.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\RolePostModel.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\PostModels\\RolePostModel.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\RolePostModel.cs",
+              "RelativeToolTip": "LiveFeedback.API\\PostModels\\RolePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:24:29.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIAwwCEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:56:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PermissionPostModel.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\PermissionPostModel.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\PostModels\\PermissionPostModel.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\PermissionPostModel.cs",
+              "RelativeToolTip": "LiveFeedback.API\\PostModels\\PermissionPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:11:20.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserPostModel.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\UserPostModel.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\PostModels\\UserPostModel.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\PostModels\\UserPostModel.cs",
+              "RelativeToolTip": "LiveFeedback.API\\PostModels\\UserPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:09:40.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserReository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IUserReository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IUserReository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IUserReository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IUserReository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:36:15.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\User.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Entities\\User.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:24:29.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:57:01.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\FeedbackRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\FeedbackRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\FeedbackRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:40:22.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IFeedbackRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:39:06.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Entities\\Feedback.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Feedback.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Entities\\Feedback.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:54:21.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MyImageRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\MyImageRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\MyImageRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\MyImageRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\MyImageRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:39:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMyImageRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IMyImageRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IMyImageRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IMyImageRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IMyImageRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:37:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IQuestionRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IQuestionRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IQuestionRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:38:09.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:39:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IRoleRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:38:30.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Entities\\Role.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Entities\\Role.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:29:16.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:29:04.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IPermissionRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IPermissionRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Interfaces\\IRepositories\\IPermissionRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Interfaces\\IRepositories\\IPermissionRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Interfaces\\IRepositories\\IPermissionRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:37:46.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\DataContext.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\DataContext.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:14:00.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:40:43.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\Entities\\Permission.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\Entities\\Permission.cs",
+              "RelativeToolTip": "LiveFeedback.Core\\Entities\\Permission.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:35:52.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LiveFeedback.Core.csproj",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj",
+              "RelativeDocumentMoniker": "LiveFeedback.Core\\LiveFeedback.Core.csproj",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj",
+              "RelativeToolTip": "LiveFeedback.Core\\LiveFeedback.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T16:23:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250311193237_Init.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Migrations\\20250311193237_Init.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\Migrations\\20250311193237_Init.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\Migrations\\20250311193237_Init.cs",
+              "RelativeToolTip": "LiveFeedback.Data\\Migrations\\20250311193237_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:32:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SQLQuery10.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\oi5uzr0y..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\oi5uzr0y..sql",
+              "ToolTip": "SQLQuery10.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:24:15.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SQLQuery9.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\mj2dgw51..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\mj2dgw51..sql",
+              "ToolTip": "SQLQuery9.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:24:10.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SQLQuery8.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\k3gfxeeu..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\k3gfxeeu..sql",
+              "ToolTip": "SQLQuery8.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:24:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SQLQuery7.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\lujaz4q4..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\lujaz4q4..sql",
+              "ToolTip": "SQLQuery7.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:23:26.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SQLQuery6.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\g14ifkpa..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\g14ifkpa..sql",
+              "ToolTip": "SQLQuery6.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:23:22.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SQLQuery5.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\reu52c3c..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\reu52c3c..sql",
+              "ToolTip": "SQLQuery5.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:23:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SQLQuery4.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\s4k10xps..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\s4k10xps..sql",
+              "ToolTip": "SQLQuery4.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:23:12.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\mmk5fklk..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\mmk5fklk..sql",
+              "ToolTip": "SQLQuery3.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:23:05.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\sxsfc3ia..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\sxsfc3ia..sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:22:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Local\\Temp\\xym0c1gc..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\user1\\AppData\\Local\\Temp\\xym0c1gc..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T18:22:48.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LiveFeedback.Data.csproj",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj",
+              "RelativeDocumentMoniker": "LiveFeedback.Data\\LiveFeedback.Data.csproj",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj",
+              "RelativeToolTip": "LiveFeedback.Data\\LiveFeedback.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T17:25:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LiveFeedback.API.csproj",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\LiveFeedback.API.csproj",
+              "RelativeDocumentMoniker": "LiveFeedback.API\\LiveFeedback.API.csproj",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\LiveFeedback.API.csproj",
+              "RelativeToolTip": "LiveFeedback.API\\LiveFeedback.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T17:41:59.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "LiveFeedback.Service\\Class1.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\Class1.cs",
+              "RelativeToolTip": "LiveFeedback.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:21:27.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

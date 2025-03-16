@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\LiveFeedback.API.csproj": {}
+  },
+  "projects": {
+    "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\LiveFeedback.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\LiveFeedback.API.csproj",
+        "projectName": "LiveFeedback.API",
+        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\LiveFeedback.API.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj": {
+                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj"
+              },
+              "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj": {
+                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj"
+              },
+              "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\LiveFeedback.Service.csproj": {
+                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\LiveFeedback.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj",
+        "projectName": "LiveFeedback.Core",
+        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj",
+        "projectName": "LiveFeedback.Data",
+        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\LiveFeedback.Data.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj": {
+                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\LiveFeedback.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\LiveFeedback.Service.csproj",
+        "projectName": "LiveFeedback.Service",
+        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\LiveFeedback.Service.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj": {
+                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\Practicume-project\\.NET\\LiveFeedback\\LiveFeedback.Core\\LiveFeedback.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.0-preview.1.25080.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

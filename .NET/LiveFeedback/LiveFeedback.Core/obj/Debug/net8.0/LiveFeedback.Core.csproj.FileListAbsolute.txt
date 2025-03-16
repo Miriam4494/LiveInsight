@@ -1,0 +1,13 @@
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\bin\Debug\net8.0\LiveFeedback.Core.deps.json
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\bin\Debug\net8.0\LiveFeedback.Core.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\bin\Debug\net8.0\LiveFeedback.Core.pdb
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.csproj.AssemblyReference.cache
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.AssemblyInfoInputs.cache
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.AssemblyInfo.cs
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.csproj.CoreCompileInputs.cache
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.sourcelink.json
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\refint\LiveFeedback.Core.dll
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\LiveFeedback.Core.pdb
+C:\מירי\תכנות\שנה ב\Practicume-project\.NET\LiveFeedback\LiveFeedback.Core\obj\Debug\net8.0\ref\LiveFeedback.Core.dll

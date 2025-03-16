@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S6zcHJA0HqPvW6YVqSpbA9qlESKlwERhrNUQwk5YeJk=",
+  "Source": "LiveFeedback.API",
+  "BasePath": "_content/LiveFeedback.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
